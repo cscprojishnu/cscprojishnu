@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently doing B.Tech from Amrita Vishwa Vidyapeetham, Coimbatore and B.Sc from IIT Madras
-- 👯 I’m looking to collaborate on any software development and space related projects.
+- 👯 I’m looking to collaborate on any research oriented study, software development and space related projects.
 - 📫 How to reach me: Email: djishnuteja2006@gmail.com
 
 -->
